@@ -51,6 +51,8 @@ body {
     height: 36px;
     min-width: 54px;
     border-radius: 2px;
+    font: 13px arial,sans-serif;
+    font-weight: 700;
 }
 .blue {
     background-color: #4684ee;
@@ -70,7 +72,7 @@ body {
     border-color: rgb(198,198,198);
     box-shadow: rgba(0,0,0,0.1) 0px 1px 1px 0px;
 }
-input {
+#search {
     width: 480px;
     height: 22px;
     margin: 20px;
