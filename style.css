@@ -71,14 +71,17 @@ body {
     box-shadow: rgba(0,0,0,0.1) 0px 1px 1px 0px;
 }
 #search {
-
+    border: 0px;
+    font-size: 16px;
+    height: 34px;
+    width: 559px;
+    margin: 5px auto;
 }
 .search-container {
     width: 584px;
     height: 44px;
     margin: 0px auto;
-    border: 1px solid rgb(234,234,234);
-    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.165), 0 0 0 1px rgba(0,0,0,0.08)
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16),0 0 0 1px rgba(0,0,0,0.08)
 }
 .left {
     float:left;
